@@ -2,7 +2,8 @@
 <br>
 
 ## 所有functions测试结果
-46 passed, 2 skipped <br>
+46 passed, 2 skipped 
+<br><br>
 ![CS336](./cs336_basics/results/pass_1.png)
 <br>
 ![CS336](./cs336_basics/results/pass_2.png)
@@ -56,12 +57,12 @@ Total forward FLOPs: 20,086,784,000
 Total TFLOPs: 0.020
 
 5. 训练结果loss的变化 <br>
-  ![CS336](./cs336_basics/results/loss_charg.png) 
+  ![CS336](./cs336_basics/results/loss_chart.png) 
 
 ## 使用训练后模型生成文本
 prompt = "The dragon opened the door" 
-<br> 生成文本如下： 
-<br>The dragon opened the door. The bird said, "I love you for the bird. What fly."
+<br><br> 生成文本如下： 
+<br><br>The dragon opened the door. The bird said, "I love you for the bird. What fly."
 "Maybe you have a small forest!" laughed and Lily. Tom said, "That's you sad, Lily. I don'
 "I am sad and play with you," was so much.
 One day, Tom can the heavy tree.
