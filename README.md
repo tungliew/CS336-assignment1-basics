@@ -3,7 +3,7 @@
 
 ## 所有functions测试结果
 46 passed, 2 skipped
-![CS336](./results/pass_1.png)
+![CS336](./cs336_basics/results/pass_1.png)
 <br>
 ![CS336](./results/pass_2.png)
 
