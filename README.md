@@ -28,22 +28,21 @@ d_model         : 512
 num_heads       : 16
 d_ff            : 1,344
 
-   - PARAMETERS <br>
-   Total parameters: 63,919,616
+- PARAMETERS <br>
+Total parameters: 63,919,616
 
-   - MEMORY <br>
-   Memory (bytes): 255,678,464
-   Memory (MB):    243.83
-   Memory (GB):    0.24
+- MEMORY <br>
+Memory (bytes): 255,678,464
+Memory (MB):    243.83
+Memory (GB):    0.24
 
-   - FORWARD PASS FLOPs <br>
-   FLOPs per layer: 1,728,053,248
-   Transformer FLOPs: 6,912,212,992
-   LM head FLOPs: 13,174,571,008
+- FORWARD PASS FLOPs <br>
+FLOPs per layer: 1,728,053,248
+Transformer FLOPs: 6,912,212,992
+LM head FLOPs: 13,174,571,008
 
-
-   Total forward FLOPs: 20,086,784,000
-   Total TFLOPs: 0.020
+Total forward FLOPs: 20,086,784,000
+Total TFLOPs: 0.020
 
 5. 训练结果loss的变化 <br>
   ![CS336](./cs336_basics/results/loss_chart.png) 
