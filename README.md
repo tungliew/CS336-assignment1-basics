@@ -47,6 +47,8 @@ Total TFLOPs: 0.020
 5. 训练结果loss的变化 <br>
   ![CS336](./cs336_basics/results/loss_chart.png) 
 
+猜测可能由于当前数据复杂度>模型复杂度，而且train dataset和val dataset分布较为一致，所以学习过程中train loss和val loss比较接近，loss曲线重合比较高
+
 ## 使用训练后模型生成文本
 prompt = "The dragon opened the door" 
 <br><br> 生成文本如下： 
