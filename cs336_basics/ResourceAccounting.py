@@ -56,7 +56,10 @@ def transformer_stats(vocab_size, context_length, num_layers, d_model, num_heads
     # MEMORY
     # =========================================================
 
-    memory_bytes = total_params * bytes_per_param
+    param_bytes = total_params * bytes_per_param
+    grad_bytes = param_bytes
+    optim_bytes = param_bytes * 2  # for AdamW
+    memory_bytes = param_bytes + grad_bytes + optim_bytes
 
     memory_mb = memory_bytes / (1024 ** 2)
     memory_gb = memory_bytes / (1024 ** 3)
