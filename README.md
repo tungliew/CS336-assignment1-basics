@@ -32,9 +32,9 @@ d_ff            : 1,344
 Total parameters: 63,919,616
 
 - MEMORY <br>
-Memory (bytes): 255,678,464
-Memory (MB):    243.83
-Memory (GB):    0.24
+Memory (bytes): 1,022,713,856
+Memory (MB):    975.34
+Memory (GB):    0.95
 
 - FORWARD PASS FLOPs <br>
 FLOPs per layer: 1,728,053,248
