@@ -30,7 +30,7 @@ They played together. They were very happy that they saw the box with the chain.
 
 <br>
 **Summary**:<br>
-1. CSA的best_val_loss与MHA的best_val_loss仍然有差距，MHA Transformer生成文本更加顺畅、可读性强，CSA Transformer生成文本更粗糙一些 <br>
+1. CSA的best_val_loss与MHA的best_val_loss仍然有差距，<br>MHA Transformer生成文本更加顺畅、可读性强，CSA Transformer生成文本更粗糙一些 <br>
 2. 但是训练速度上有极大提升，MHA训练时间 ~= CSA训练时间 * 3.5, 能够极大缩短训练时间
 
 
