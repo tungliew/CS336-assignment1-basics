@@ -6,8 +6,8 @@
 <br>
 根据论文[DeepSeek_V4](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf) 对其中的 Compressed Sparse Attention(CSA)j进行实现，<br>并将其替换Transformer中的 Multi Head Attention，<br>代码见DeepSeek_V4/CompressedSparseAttention.py和TransformerCSA.py <br>
 <br>
-- 在CPU上进行训练
-- vocab_size = 10,000
+- 在CPU上进行训练<br>
+- vocab_size = 10,000<br>
 - max_iters = 1,000
 
 <br>MHA_Transformer 训练时长 ~ 2h 40min, best val loss 2.9422 <br>
