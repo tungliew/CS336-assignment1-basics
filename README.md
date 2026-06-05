@@ -10,7 +10,7 @@
 - max_iters = 1,000
 
 <br>
-**MHA Transformer** 训练时长 ~ 2h 40min, best val loss **2.9422**
+__MHA Transformer__ 训练时长 ~ 2h 40min, best val loss **2.9422**
 **CSA Transformer** 训练时长 ~ **45min**, best val loss  **3.6928**
 
 **使用各自训练后模型进行文本生成测试**
