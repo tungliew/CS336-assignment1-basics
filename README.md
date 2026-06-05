@@ -12,7 +12,7 @@
 <br>
 **MHA Transformer** 训练时长 ~ 2h 40min, best val loss **2.9422**
 **CSA Transformer** 训练时长 ~ **45min**, best val loss  **3.6928**
-<br>
+
 **使用各自训练后模型进行文本生成测试**
 - prompt = "The dragon opened the door"
 <br>
