@@ -9,7 +9,6 @@
 - vocab_size = 10,000
 - max_iters = 1,000
 
-<br>
 <br>MHA_Transformer 训练时长 ~ 2h 40min, best val loss 2.9422 <br>
 <br>CSA_Transformer 训练时长 ~ 45min, best val loss 3.6928 <br>
 <br>
