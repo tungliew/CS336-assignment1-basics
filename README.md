@@ -14,7 +14,7 @@
 <br>
 **使用各自训练后模型进行文本生成测试** 
 <br>
-- prompt = "The dragon opened the door"
+- prompt = "The dragon opened the door" <br>
 <br> - MHA生成文本如下：<br>
 The dragon opened the door and tried to find the shiny and eat it. He looked at the house and saw a big tree. He wanted to catch the truck.<br>
 "Look, a stick!" he said. "We will not some cake!" <br>
