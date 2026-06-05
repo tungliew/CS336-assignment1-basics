@@ -10,8 +10,8 @@
 - max_iters = 1,000
 
 <br>
-__MHA Transformer__ 训练时长 ~ 2h 40min, best val loss **2.9422**
-**CSA Transformer** 训练时长 ~ **45min**, best val loss  **3.6928**
+**MHA_Transformer** 训练时长 ~ 2h 40min, best val loss **2.9422**
+**CSA_Transformer** 训练时长 ~ **45min**, best val loss  **3.6928**
 
 **使用各自训练后模型进行文本生成测试**
 - prompt = "The dragon opened the door"
@@ -31,9 +31,9 @@ They played together. They were very happy that they saw the box with the chain.
 <|endoftext|> <br>
 
 <br>
-Summary:<br>
+**Summary**:<br>
 1. CSA的best_val_loss与MHA的best_val_loss仍然有差距 <br>
-2. 但是**训练速度上有极大提升，MHA训练时间 ~= CSA训练时间 * 3.5**, 能够极大缩短训练时间
+2. 但是**训练速度上有极大提升**，MHA训练时间 ~= CSA训练时间 * 3.5, 能够极大缩短训练时间
 
 
 
