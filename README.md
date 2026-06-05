@@ -16,14 +16,13 @@
 <br>
 - prompt = "The dragon opened the door"
 <br>
-<br>- MHA生成文本如下：<br>
+<br> - MHA生成文本如下：<br>
 The dragon opened the door and tried to find the shiny and eat it. He looked at the house and saw a big tree. He wanted to catch the truck.<br>
 "Look, a stick!" he said. "We will not some cake!" <br>
 "Yes, I can't take his food home!" <br>
 They ran to the park and told them to help each other. They played in the forest, and they had a great time. They were happy to have a fun day.<br>
 <|endoftext|> <br>
-<br>
-- CSA生成文本如下：<br>
+<br> - CSA生成文本如下：<br>
 The dragon opened the door and the story is a big hole. They look at the tree. They did not want to play with the store and a swing. <br>
 One day, a time, "Do you, but the box of the bird flew away. 
 They played together. They were very small toy again.<br>
