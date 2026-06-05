@@ -1,6 +1,41 @@
 # Stanford CS336 Assignment1 Spring 2026
 <br>
 
+## 6月5日 Update
+### 用DeepSeek_V4的Compressed Sparse Attention(CSA)替换Multi Head Attention(MHA)
+
+
+在CPU上进行训练
+vocab_size = 10,000
+max_iters = 1,000
+
+**MHA Transformer** 训练时长 ~ 2h 40min, best val loss **2.9422**
+**CSA Transformer** 训练时长 ~ **45min**, best val loss  **3.6928**
+
+**使用各自训练后模型进行文本生成测试**
+prompt = "The dragon opened the door"
+
+MHA生成文本如下：
+The dragon opened the door and tried to find the shiny and eat it. He looked at the house and saw a big tree. He wanted to catch the truck.<br>
+"Look, a stick!" he said. "We will not some cake!" <br>
+"Yes, I can't take his food home!" <br>
+They ran to the park and told them to help each other. They played in the forest, and they had a great time. They were happy to have a fun day.<br>
+<|endoftext|> <br>
+
+MHA生成文本如下：
+The dragon opened the door and the story is a big hole. They look at the tree. They did not want to play with the store and a swing. <br>
+One day, a time, "Do you, but the box of the bird flew away. 
+They played together. They were very small toy again.<br>
+They played together. They were very happy that they saw the box with the chain. <br>
+<|endoftext|> <br>
+
+Summary:
+1. CSA的best_val_loss与MHA的best_val_loss仍然有差距
+2. 但是**训练速度上有极大提升，MHA训练时间 ~= CSA训练时间 * 3.5**, 能够极大缩短训练时间
+
+
+
+
 ## 所有functions测试结果
 46 passed, 2 skipped 
 <br><br>
