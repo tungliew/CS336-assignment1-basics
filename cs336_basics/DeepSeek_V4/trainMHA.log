@@ -1,0 +1,1543 @@
+finished iteration 0
+iter 0 | train loss 9.2520 | val loss 9.2478
+New best model saved with val loss 9.2478
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 1
+finished iteration 2
+finished iteration 3
+finished iteration 4
+finished iteration 5
+iter 5 | train loss 9.2418 | val loss 9.2464
+New best model saved with val loss 9.2464
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 6
+finished iteration 7
+finished iteration 8
+finished iteration 9
+finished iteration 10
+iter 10 | train loss 9.2446 | val loss 9.2388
+New best model saved with val loss 9.2388
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 11
+finished iteration 12
+finished iteration 13
+finished iteration 14
+finished iteration 15
+iter 15 | train loss 9.2352 | val loss 9.2277
+New best model saved with val loss 9.2277
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 16
+finished iteration 17
+finished iteration 18
+finished iteration 19
+finished iteration 20
+iter 20 | train loss 9.2092 | val loss 9.2105
+New best model saved with val loss 9.2105
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 21
+finished iteration 22
+finished iteration 23
+finished iteration 24
+finished iteration 25
+iter 25 | train loss 9.1974 | val loss 9.1923
+New best model saved with val loss 9.1923
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 26
+finished iteration 27
+finished iteration 28
+finished iteration 29
+finished iteration 30
+iter 30 | train loss 9.1734 | val loss 9.1651
+New best model saved with val loss 9.1651
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 31
+finished iteration 32
+finished iteration 33
+finished iteration 34
+finished iteration 35
+iter 35 | train loss 9.1323 | val loss 9.1333
+New best model saved with val loss 9.1333
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 36
+finished iteration 37
+finished iteration 38
+finished iteration 39
+finished iteration 40
+iter 40 | train loss 9.1056 | val loss 9.1018
+New best model saved with val loss 9.1018
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 41
+finished iteration 42
+finished iteration 43
+finished iteration 44
+finished iteration 45
+iter 45 | train loss 9.0667 | val loss 9.0616
+New best model saved with val loss 9.0616
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 46
+finished iteration 47
+finished iteration 48
+finished iteration 49
+finished iteration 50
+iter 50 | train loss 9.0191 | val loss 9.0137
+New best model saved with val loss 9.0137
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 51
+finished iteration 52
+finished iteration 53
+finished iteration 54
+finished iteration 55
+iter 55 | train loss 8.9710 | val loss 8.9609
+New best model saved with val loss 8.9609
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 56
+finished iteration 57
+finished iteration 58
+finished iteration 59
+finished iteration 60
+iter 60 | train loss 8.9185 | val loss 8.9012
+New best model saved with val loss 8.9012
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 61
+finished iteration 62
+finished iteration 63
+finished iteration 64
+finished iteration 65
+iter 65 | train loss 8.8718 | val loss 8.8330
+New best model saved with val loss 8.8330
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 66
+finished iteration 67
+finished iteration 68
+finished iteration 69
+finished iteration 70
+iter 70 | train loss 8.7891 | val loss 8.7546
+New best model saved with val loss 8.7546
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 71
+finished iteration 72
+finished iteration 73
+finished iteration 74
+finished iteration 75
+iter 75 | train loss 8.7242 | val loss 8.6811
+New best model saved with val loss 8.6811
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 76
+finished iteration 77
+finished iteration 78
+finished iteration 79
+finished iteration 80
+iter 80 | train loss 8.6074 | val loss 8.5881
+New best model saved with val loss 8.5881
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 81
+finished iteration 82
+finished iteration 83
+finished iteration 84
+finished iteration 85
+iter 85 | train loss 8.5030 | val loss 8.4875
+New best model saved with val loss 8.4875
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 86
+finished iteration 87
+finished iteration 88
+finished iteration 89
+finished iteration 90
+iter 90 | train loss 8.4136 | val loss 8.3750
+New best model saved with val loss 8.3750
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 91
+finished iteration 92
+finished iteration 93
+finished iteration 94
+finished iteration 95
+iter 95 | train loss 8.3036 | val loss 8.2884
+New best model saved with val loss 8.2884
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 96
+finished iteration 97
+finished iteration 98
+finished iteration 99
+finished iteration 100
+iter 100 | train loss 8.2031 | val loss 8.1764
+New best model saved with val loss 8.1764
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 101
+finished iteration 102
+finished iteration 103
+finished iteration 104
+finished iteration 105
+iter 105 | train loss 8.0979 | val loss 8.0733
+New best model saved with val loss 8.0733
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 106
+finished iteration 107
+finished iteration 108
+finished iteration 109
+finished iteration 110
+iter 110 | train loss 7.9954 | val loss 7.9643
+New best model saved with val loss 7.9643
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 111
+finished iteration 112
+finished iteration 113
+finished iteration 114
+finished iteration 115
+iter 115 | train loss 7.9221 | val loss 7.8892
+New best model saved with val loss 7.8892
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 116
+finished iteration 117
+finished iteration 118
+finished iteration 119
+finished iteration 120
+iter 120 | train loss 7.7806 | val loss 7.7784
+New best model saved with val loss 7.7784
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 121
+finished iteration 122
+finished iteration 123
+finished iteration 124
+finished iteration 125
+iter 125 | train loss 7.6853 | val loss 7.6775
+New best model saved with val loss 7.6775
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 126
+finished iteration 127
+finished iteration 128
+finished iteration 129
+finished iteration 130
+iter 130 | train loss 7.6036 | val loss 7.5810
+New best model saved with val loss 7.5810
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 131
+finished iteration 132
+finished iteration 133
+finished iteration 134
+finished iteration 135
+iter 135 | train loss 7.5169 | val loss 7.4875
+New best model saved with val loss 7.4875
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 136
+finished iteration 137
+finished iteration 138
+finished iteration 139
+finished iteration 140
+iter 140 | train loss 7.4208 | val loss 7.3999
+New best model saved with val loss 7.3999
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 141
+finished iteration 142
+finished iteration 143
+finished iteration 144
+finished iteration 145
+iter 145 | train loss 7.3261 | val loss 7.2883
+New best model saved with val loss 7.2883
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 146
+finished iteration 147
+finished iteration 148
+finished iteration 149
+finished iteration 150
+iter 150 | train loss 7.1947 | val loss 7.2007
+New best model saved with val loss 7.2007
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 151
+finished iteration 152
+finished iteration 153
+finished iteration 154
+finished iteration 155
+iter 155 | train loss 7.1579 | val loss 7.0909
+New best model saved with val loss 7.0909
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 156
+finished iteration 157
+finished iteration 158
+finished iteration 159
+finished iteration 160
+iter 160 | train loss 7.0182 | val loss 7.0044
+New best model saved with val loss 7.0044
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 161
+finished iteration 162
+finished iteration 163
+finished iteration 164
+finished iteration 165
+iter 165 | train loss 6.9359 | val loss 6.9107
+New best model saved with val loss 6.9107
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 166
+finished iteration 167
+finished iteration 168
+finished iteration 169
+finished iteration 170
+iter 170 | train loss 6.8401 | val loss 6.8319
+New best model saved with val loss 6.8319
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 171
+finished iteration 172
+finished iteration 173
+finished iteration 174
+finished iteration 175
+iter 175 | train loss 6.7535 | val loss 6.7186
+New best model saved with val loss 6.7186
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 176
+finished iteration 177
+finished iteration 178
+finished iteration 179
+finished iteration 180
+iter 180 | train loss 6.6331 | val loss 6.6191
+New best model saved with val loss 6.6191
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 181
+finished iteration 182
+finished iteration 183
+finished iteration 184
+finished iteration 185
+iter 185 | train loss 6.6068 | val loss 6.5539
+New best model saved with val loss 6.5539
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 186
+finished iteration 187
+finished iteration 188
+finished iteration 189
+finished iteration 190
+iter 190 | train loss 6.4601 | val loss 6.4829
+New best model saved with val loss 6.4829
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 191
+finished iteration 192
+finished iteration 193
+finished iteration 194
+finished iteration 195
+iter 195 | train loss 6.3870 | val loss 6.3883
+New best model saved with val loss 6.3883
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 196
+finished iteration 197
+finished iteration 198
+finished iteration 199
+finished iteration 200
+iter 200 | train loss 6.3348 | val loss 6.3047
+New best model saved with val loss 6.3047
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 201
+finished iteration 202
+finished iteration 203
+finished iteration 204
+finished iteration 205
+iter 205 | train loss 6.2404 | val loss 6.2071
+New best model saved with val loss 6.2071
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 206
+finished iteration 207
+finished iteration 208
+finished iteration 209
+finished iteration 210
+iter 210 | train loss 6.1858 | val loss 6.1299
+New best model saved with val loss 6.1299
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 211
+finished iteration 212
+finished iteration 213
+finished iteration 214
+finished iteration 215
+iter 215 | train loss 6.0534 | val loss 6.0781
+New best model saved with val loss 6.0781
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 216
+finished iteration 217
+finished iteration 218
+finished iteration 219
+finished iteration 220
+iter 220 | train loss 5.9510 | val loss 5.9884
+New best model saved with val loss 5.9884
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 221
+finished iteration 222
+finished iteration 223
+finished iteration 224
+finished iteration 225
+iter 225 | train loss 5.9678 | val loss 5.9200
+New best model saved with val loss 5.9200
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 226
+finished iteration 227
+finished iteration 228
+finished iteration 229
+finished iteration 230
+iter 230 | train loss 5.8705 | val loss 5.8258
+New best model saved with val loss 5.8258
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 231
+finished iteration 232
+finished iteration 233
+finished iteration 234
+finished iteration 235
+iter 235 | train loss 5.7345 | val loss 5.7904
+New best model saved with val loss 5.7904
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 236
+finished iteration 237
+finished iteration 238
+finished iteration 239
+finished iteration 240
+iter 240 | train loss 5.7476 | val loss 5.7268
+New best model saved with val loss 5.7268
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 241
+finished iteration 242
+finished iteration 243
+finished iteration 244
+finished iteration 245
+iter 245 | train loss 5.6333 | val loss 5.6508
+New best model saved with val loss 5.6508
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 246
+finished iteration 247
+finished iteration 248
+finished iteration 249
+finished iteration 250
+iter 250 | train loss 5.6767 | val loss 5.6150
+New best model saved with val loss 5.6150
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 251
+finished iteration 252
+finished iteration 253
+finished iteration 254
+finished iteration 255
+iter 255 | train loss 5.5712 | val loss 5.5558
+New best model saved with val loss 5.5558
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 256
+finished iteration 257
+finished iteration 258
+finished iteration 259
+finished iteration 260
+iter 260 | train loss 5.5650 | val loss 5.4715
+New best model saved with val loss 5.4715
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 261
+finished iteration 262
+finished iteration 263
+finished iteration 264
+finished iteration 265
+iter 265 | train loss 5.4345 | val loss 5.4375
+New best model saved with val loss 5.4375
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 266
+finished iteration 267
+finished iteration 268
+finished iteration 269
+finished iteration 270
+iter 270 | train loss 5.3476 | val loss 5.3967
+New best model saved with val loss 5.3967
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 271
+finished iteration 272
+finished iteration 273
+finished iteration 274
+finished iteration 275
+iter 275 | train loss 5.4058 | val loss 5.3641
+New best model saved with val loss 5.3641
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 276
+finished iteration 277
+finished iteration 278
+finished iteration 279
+finished iteration 280
+iter 280 | train loss 5.2774 | val loss 5.3067
+New best model saved with val loss 5.3067
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 281
+finished iteration 282
+finished iteration 283
+finished iteration 284
+finished iteration 285
+iter 285 | train loss 5.2128 | val loss 5.2252
+New best model saved with val loss 5.2252
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 286
+finished iteration 287
+finished iteration 288
+finished iteration 289
+finished iteration 290
+iter 290 | train loss 5.1444 | val loss 5.2288
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 291
+finished iteration 292
+finished iteration 293
+finished iteration 294
+finished iteration 295
+iter 295 | train loss 5.1328 | val loss 5.1459
+New best model saved with val loss 5.1459
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 296
+finished iteration 297
+finished iteration 298
+finished iteration 299
+finished iteration 300
+iter 300 | train loss 5.1804 | val loss 5.1164
+New best model saved with val loss 5.1164
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 301
+finished iteration 302
+finished iteration 303
+finished iteration 304
+finished iteration 305
+iter 305 | train loss 5.1298 | val loss 5.0775
+New best model saved with val loss 5.0775
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 306
+finished iteration 307
+finished iteration 308
+finished iteration 309
+finished iteration 310
+iter 310 | train loss 4.9954 | val loss 5.0222
+New best model saved with val loss 5.0222
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 311
+finished iteration 312
+finished iteration 313
+finished iteration 314
+finished iteration 315
+iter 315 | train loss 5.0038 | val loss 5.0107
+New best model saved with val loss 5.0107
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 316
+finished iteration 317
+finished iteration 318
+finished iteration 319
+finished iteration 320
+iter 320 | train loss 4.8341 | val loss 4.9145
+New best model saved with val loss 4.9145
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 321
+finished iteration 322
+finished iteration 323
+finished iteration 324
+finished iteration 325
+iter 325 | train loss 4.9970 | val loss 4.9098
+New best model saved with val loss 4.9098
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 326
+finished iteration 327
+finished iteration 328
+finished iteration 329
+finished iteration 330
+iter 330 | train loss 4.9061 | val loss 4.8667
+New best model saved with val loss 4.8667
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 331
+finished iteration 332
+finished iteration 333
+finished iteration 334
+finished iteration 335
+iter 335 | train loss 4.8447 | val loss 4.8193
+New best model saved with val loss 4.8193
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 336
+finished iteration 337
+finished iteration 338
+finished iteration 339
+finished iteration 340
+iter 340 | train loss 4.8072 | val loss 4.8022
+New best model saved with val loss 4.8022
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 341
+finished iteration 342
+finished iteration 343
+finished iteration 344
+finished iteration 345
+iter 345 | train loss 4.7137 | val loss 4.7876
+New best model saved with val loss 4.7876
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 346
+finished iteration 347
+finished iteration 348
+finished iteration 349
+finished iteration 350
+iter 350 | train loss 4.7020 | val loss 4.7567
+New best model saved with val loss 4.7567
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 351
+finished iteration 352
+finished iteration 353
+finished iteration 354
+finished iteration 355
+iter 355 | train loss 4.7111 | val loss 4.6940
+New best model saved with val loss 4.6940
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 356
+finished iteration 357
+finished iteration 358
+finished iteration 359
+finished iteration 360
+iter 360 | train loss 4.6090 | val loss 4.6526
+New best model saved with val loss 4.6526
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 361
+finished iteration 362
+finished iteration 363
+finished iteration 364
+finished iteration 365
+iter 365 | train loss 4.7672 | val loss 4.6225
+New best model saved with val loss 4.6225
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 366
+finished iteration 367
+finished iteration 368
+finished iteration 369
+finished iteration 370
+iter 370 | train loss 4.5665 | val loss 4.6094
+New best model saved with val loss 4.6094
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 371
+finished iteration 372
+finished iteration 373
+finished iteration 374
+finished iteration 375
+iter 375 | train loss 4.5034 | val loss 4.6183
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 376
+finished iteration 377
+finished iteration 378
+finished iteration 379
+finished iteration 380
+iter 380 | train loss 4.5390 | val loss 4.5248
+New best model saved with val loss 4.5248
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 381
+finished iteration 382
+finished iteration 383
+finished iteration 384
+finished iteration 385
+iter 385 | train loss 4.5108 | val loss 4.5049
+New best model saved with val loss 4.5049
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 386
+finished iteration 387
+finished iteration 388
+finished iteration 389
+finished iteration 390
+iter 390 | train loss 4.4815 | val loss 4.4876
+New best model saved with val loss 4.4876
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 391
+finished iteration 392
+finished iteration 393
+finished iteration 394
+finished iteration 395
+iter 395 | train loss 4.4919 | val loss 4.4240
+New best model saved with val loss 4.4240
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 396
+finished iteration 397
+finished iteration 398
+finished iteration 399
+finished iteration 400
+iter 400 | train loss 4.3428 | val loss 4.4233
+New best model saved with val loss 4.4233
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 401
+finished iteration 402
+finished iteration 403
+finished iteration 404
+finished iteration 405
+iter 405 | train loss 4.3031 | val loss 4.3849
+New best model saved with val loss 4.3849
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 406
+finished iteration 407
+finished iteration 408
+finished iteration 409
+finished iteration 410
+iter 410 | train loss 4.3656 | val loss 4.3259
+New best model saved with val loss 4.3259
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 411
+finished iteration 412
+finished iteration 413
+finished iteration 414
+finished iteration 415
+iter 415 | train loss 4.1990 | val loss 4.3172
+New best model saved with val loss 4.3172
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 416
+finished iteration 417
+finished iteration 418
+finished iteration 419
+finished iteration 420
+iter 420 | train loss 4.4148 | val loss 4.3215
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 421
+finished iteration 422
+finished iteration 423
+finished iteration 424
+finished iteration 425
+iter 425 | train loss 4.2063 | val loss 4.2525
+New best model saved with val loss 4.2525
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 426
+finished iteration 427
+finished iteration 428
+finished iteration 429
+finished iteration 430
+iter 430 | train loss 4.2628 | val loss 4.2784
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 431
+finished iteration 432
+finished iteration 433
+finished iteration 434
+finished iteration 435
+iter 435 | train loss 4.2306 | val loss 4.2050
+New best model saved with val loss 4.2050
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 436
+finished iteration 437
+finished iteration 438
+finished iteration 439
+finished iteration 440
+iter 440 | train loss 4.2215 | val loss 4.1868
+New best model saved with val loss 4.1868
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 441
+finished iteration 442
+finished iteration 443
+finished iteration 444
+finished iteration 445
+iter 445 | train loss 4.2200 | val loss 4.1467
+New best model saved with val loss 4.1467
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 446
+finished iteration 447
+finished iteration 448
+finished iteration 449
+finished iteration 450
+iter 450 | train loss 4.0640 | val loss 4.1502
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 451
+finished iteration 452
+finished iteration 453
+finished iteration 454
+finished iteration 455
+iter 455 | train loss 4.2154 | val loss 4.0950
+New best model saved with val loss 4.0950
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 456
+finished iteration 457
+finished iteration 458
+finished iteration 459
+finished iteration 460
+iter 460 | train loss 4.1661 | val loss 4.0345
+New best model saved with val loss 4.0345
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 461
+finished iteration 462
+finished iteration 463
+finished iteration 464
+finished iteration 465
+iter 465 | train loss 4.1385 | val loss 4.0656
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 466
+finished iteration 467
+finished iteration 468
+finished iteration 469
+finished iteration 470
+iter 470 | train loss 4.0984 | val loss 4.0833
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 471
+finished iteration 472
+finished iteration 473
+finished iteration 474
+finished iteration 475
+iter 475 | train loss 3.9668 | val loss 4.0351
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 476
+finished iteration 477
+finished iteration 478
+finished iteration 479
+finished iteration 480
+iter 480 | train loss 3.9232 | val loss 4.0019
+New best model saved with val loss 4.0019
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 481
+finished iteration 482
+finished iteration 483
+finished iteration 484
+finished iteration 485
+iter 485 | train loss 4.0308 | val loss 4.0323
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 486
+finished iteration 487
+finished iteration 488
+finished iteration 489
+finished iteration 490
+iter 490 | train loss 4.0352 | val loss 3.9658
+New best model saved with val loss 3.9658
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 491
+finished iteration 492
+finished iteration 493
+finished iteration 494
+finished iteration 495
+iter 495 | train loss 3.8887 | val loss 3.9503
+New best model saved with val loss 3.9503
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 496
+finished iteration 497
+finished iteration 498
+finished iteration 499
+finished iteration 500
+iter 500 | train loss 3.9212 | val loss 3.9864
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 501
+finished iteration 502
+finished iteration 503
+finished iteration 504
+finished iteration 505
+iter 505 | train loss 3.9567 | val loss 3.9123
+New best model saved with val loss 3.9123
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 506
+finished iteration 507
+finished iteration 508
+finished iteration 509
+finished iteration 510
+iter 510 | train loss 4.0058 | val loss 3.8782
+New best model saved with val loss 3.8782
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 511
+finished iteration 512
+finished iteration 513
+finished iteration 514
+finished iteration 515
+iter 515 | train loss 3.8912 | val loss 3.8422
+New best model saved with val loss 3.8422
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 516
+finished iteration 517
+finished iteration 518
+finished iteration 519
+finished iteration 520
+iter 520 | train loss 3.8493 | val loss 3.8444
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 521
+finished iteration 522
+finished iteration 523
+finished iteration 524
+finished iteration 525
+iter 525 | train loss 3.8712 | val loss 3.8182
+New best model saved with val loss 3.8182
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 526
+finished iteration 527
+finished iteration 528
+finished iteration 529
+finished iteration 530
+iter 530 | train loss 3.8541 | val loss 3.8391
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 531
+finished iteration 532
+finished iteration 533
+finished iteration 534
+finished iteration 535
+iter 535 | train loss 3.8021 | val loss 3.8542
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 536
+finished iteration 537
+finished iteration 538
+finished iteration 539
+finished iteration 540
+iter 540 | train loss 3.7241 | val loss 3.8111
+New best model saved with val loss 3.8111
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 541
+finished iteration 542
+finished iteration 543
+finished iteration 544
+finished iteration 545
+iter 545 | train loss 3.7805 | val loss 3.7932
+New best model saved with val loss 3.7932
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 546
+finished iteration 547
+finished iteration 548
+finished iteration 549
+finished iteration 550
+iter 550 | train loss 3.8329 | val loss 3.7369
+New best model saved with val loss 3.7369
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 551
+finished iteration 552
+finished iteration 553
+finished iteration 554
+finished iteration 555
+iter 555 | train loss 3.7790 | val loss 3.7222
+New best model saved with val loss 3.7222
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 556
+finished iteration 557
+finished iteration 558
+finished iteration 559
+finished iteration 560
+iter 560 | train loss 3.7197 | val loss 3.7884
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 561
+finished iteration 562
+finished iteration 563
+finished iteration 564
+finished iteration 565
+iter 565 | train loss 3.7751 | val loss 3.7185
+New best model saved with val loss 3.7185
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 566
+finished iteration 567
+finished iteration 568
+finished iteration 569
+finished iteration 570
+iter 570 | train loss 3.7448 | val loss 3.7144
+New best model saved with val loss 3.7144
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 571
+finished iteration 572
+finished iteration 573
+finished iteration 574
+finished iteration 575
+iter 575 | train loss 3.6388 | val loss 3.7024
+New best model saved with val loss 3.7024
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 576
+finished iteration 577
+finished iteration 578
+finished iteration 579
+finished iteration 580
+iter 580 | train loss 3.5918 | val loss 3.6691
+New best model saved with val loss 3.6691
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 581
+finished iteration 582
+finished iteration 583
+finished iteration 584
+finished iteration 585
+iter 585 | train loss 3.7183 | val loss 3.6716
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 586
+finished iteration 587
+finished iteration 588
+finished iteration 589
+finished iteration 590
+iter 590 | train loss 3.6632 | val loss 3.6768
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 591
+finished iteration 592
+finished iteration 593
+finished iteration 594
+finished iteration 595
+iter 595 | train loss 3.6301 | val loss 3.6382
+New best model saved with val loss 3.6382
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 596
+finished iteration 597
+finished iteration 598
+finished iteration 599
+finished iteration 600
+iter 600 | train loss 3.5537 | val loss 3.6346
+New best model saved with val loss 3.6346
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 601
+finished iteration 602
+finished iteration 603
+finished iteration 604
+finished iteration 605
+iter 605 | train loss 3.6595 | val loss 3.6339
+New best model saved with val loss 3.6339
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 606
+finished iteration 607
+finished iteration 608
+finished iteration 609
+finished iteration 610
+iter 610 | train loss 3.5656 | val loss 3.5723
+New best model saved with val loss 3.5723
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 611
+finished iteration 612
+finished iteration 613
+finished iteration 614
+finished iteration 615
+iter 615 | train loss 3.5995 | val loss 3.5989
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 616
+finished iteration 617
+finished iteration 618
+finished iteration 619
+finished iteration 620
+iter 620 | train loss 3.6355 | val loss 3.5652
+New best model saved with val loss 3.5652
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 621
+finished iteration 622
+finished iteration 623
+finished iteration 624
+finished iteration 625
+iter 625 | train loss 3.5717 | val loss 3.5973
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 626
+finished iteration 627
+finished iteration 628
+finished iteration 629
+finished iteration 630
+iter 630 | train loss 3.5140 | val loss 3.5860
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 631
+finished iteration 632
+finished iteration 633
+finished iteration 634
+finished iteration 635
+iter 635 | train loss 3.5680 | val loss 3.5219
+New best model saved with val loss 3.5219
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 636
+finished iteration 637
+finished iteration 638
+finished iteration 639
+finished iteration 640
+iter 640 | train loss 3.6261 | val loss 3.5641
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 641
+finished iteration 642
+finished iteration 643
+finished iteration 644
+finished iteration 645
+iter 645 | train loss 3.5958 | val loss 3.5513
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 646
+finished iteration 647
+finished iteration 648
+finished iteration 649
+finished iteration 650
+iter 650 | train loss 3.4749 | val loss 3.4888
+New best model saved with val loss 3.4888
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 651
+finished iteration 652
+finished iteration 653
+finished iteration 654
+finished iteration 655
+iter 655 | train loss 3.5386 | val loss 3.5020
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 656
+finished iteration 657
+finished iteration 658
+finished iteration 659
+finished iteration 660
+iter 660 | train loss 3.5001 | val loss 3.5114
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 661
+finished iteration 662
+finished iteration 663
+finished iteration 664
+finished iteration 665
+iter 665 | train loss 3.5513 | val loss 3.4904
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 666
+finished iteration 667
+finished iteration 668
+finished iteration 669
+finished iteration 670
+iter 670 | train loss 3.4348 | val loss 3.4915
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 671
+finished iteration 672
+finished iteration 673
+finished iteration 674
+finished iteration 675
+iter 675 | train loss 3.3174 | val loss 3.4721
+New best model saved with val loss 3.4721
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 676
+finished iteration 677
+finished iteration 678
+finished iteration 679
+finished iteration 680
+iter 680 | train loss 3.3892 | val loss 3.4725
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 681
+finished iteration 682
+finished iteration 683
+finished iteration 684
+finished iteration 685
+iter 685 | train loss 3.4023 | val loss 3.4457
+New best model saved with val loss 3.4457
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 686
+finished iteration 687
+finished iteration 688
+finished iteration 689
+finished iteration 690
+iter 690 | train loss 3.4909 | val loss 3.4456
+New best model saved with val loss 3.4456
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 691
+finished iteration 692
+finished iteration 693
+finished iteration 694
+finished iteration 695
+iter 695 | train loss 3.4671 | val loss 3.3736
+New best model saved with val loss 3.3736
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 696
+finished iteration 697
+finished iteration 698
+finished iteration 699
+finished iteration 700
+iter 700 | train loss 3.3128 | val loss 3.4054
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 701
+finished iteration 702
+finished iteration 703
+finished iteration 704
+finished iteration 705
+iter 705 | train loss 3.4272 | val loss 3.4077
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 706
+finished iteration 707
+finished iteration 708
+finished iteration 709
+finished iteration 710
+iter 710 | train loss 3.5469 | val loss 3.3849
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 711
+finished iteration 712
+finished iteration 713
+finished iteration 714
+finished iteration 715
+iter 715 | train loss 3.3771 | val loss 3.3763
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 716
+finished iteration 717
+finished iteration 718
+finished iteration 719
+finished iteration 720
+iter 720 | train loss 3.3474 | val loss 3.3626
+New best model saved with val loss 3.3626
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 721
+finished iteration 722
+finished iteration 723
+finished iteration 724
+finished iteration 725
+iter 725 | train loss 3.2593 | val loss 3.3697
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 726
+finished iteration 727
+finished iteration 728
+finished iteration 729
+finished iteration 730
+iter 730 | train loss 3.3583 | val loss 3.3201
+New best model saved with val loss 3.3201
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 731
+finished iteration 732
+finished iteration 733
+finished iteration 734
+finished iteration 735
+iter 735 | train loss 3.3328 | val loss 3.3102
+New best model saved with val loss 3.3102
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 736
+finished iteration 737
+finished iteration 738
+finished iteration 739
+finished iteration 740
+iter 740 | train loss 3.3134 | val loss 3.3023
+New best model saved with val loss 3.3023
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 741
+finished iteration 742
+finished iteration 743
+finished iteration 744
+finished iteration 745
+iter 745 | train loss 3.2853 | val loss 3.3354
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 746
+finished iteration 747
+finished iteration 748
+finished iteration 749
+finished iteration 750
+iter 750 | train loss 3.3366 | val loss 3.3148
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 751
+finished iteration 752
+finished iteration 753
+finished iteration 754
+finished iteration 755
+iter 755 | train loss 3.2738 | val loss 3.3117
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 756
+finished iteration 757
+finished iteration 758
+finished iteration 759
+finished iteration 760
+iter 760 | train loss 3.3458 | val loss 3.2950
+New best model saved with val loss 3.2950
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 761
+finished iteration 762
+finished iteration 763
+finished iteration 764
+finished iteration 765
+iter 765 | train loss 3.2502 | val loss 3.2749
+New best model saved with val loss 3.2749
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 766
+finished iteration 767
+finished iteration 768
+finished iteration 769
+finished iteration 770
+iter 770 | train loss 3.1775 | val loss 3.2581
+New best model saved with val loss 3.2581
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 771
+finished iteration 772
+finished iteration 773
+finished iteration 774
+finished iteration 775
+iter 775 | train loss 3.3222 | val loss 3.2259
+New best model saved with val loss 3.2259
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 776
+finished iteration 777
+finished iteration 778
+finished iteration 779
+finished iteration 780
+iter 780 | train loss 3.2317 | val loss 3.2677
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 781
+finished iteration 782
+finished iteration 783
+finished iteration 784
+finished iteration 785
+iter 785 | train loss 3.3047 | val loss 3.2590
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 786
+finished iteration 787
+finished iteration 788
+finished iteration 789
+finished iteration 790
+iter 790 | train loss 3.1757 | val loss 3.2203
+New best model saved with val loss 3.2203
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 791
+finished iteration 792
+finished iteration 793
+finished iteration 794
+finished iteration 795
+iter 795 | train loss 3.0935 | val loss 3.2202
+New best model saved with val loss 3.2202
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 796
+finished iteration 797
+finished iteration 798
+finished iteration 799
+finished iteration 800
+iter 800 | train loss 3.2195 | val loss 3.2242
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 801
+finished iteration 802
+finished iteration 803
+finished iteration 804
+finished iteration 805
+iter 805 | train loss 3.2755 | val loss 3.2712
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 806
+finished iteration 807
+finished iteration 808
+finished iteration 809
+finished iteration 810
+iter 810 | train loss 3.1072 | val loss 3.1602
+New best model saved with val loss 3.1602
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 811
+finished iteration 812
+finished iteration 813
+finished iteration 814
+finished iteration 815
+iter 815 | train loss 3.3283 | val loss 3.2048
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 816
+finished iteration 817
+finished iteration 818
+finished iteration 819
+finished iteration 820
+iter 820 | train loss 3.2413 | val loss 3.1946
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 821
+finished iteration 822
+finished iteration 823
+finished iteration 824
+finished iteration 825
+iter 825 | train loss 3.1873 | val loss 3.1786
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 826
+finished iteration 827
+finished iteration 828
+finished iteration 829
+finished iteration 830
+iter 830 | train loss 3.1654 | val loss 3.1595
+New best model saved with val loss 3.1595
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 831
+finished iteration 832
+finished iteration 833
+finished iteration 834
+finished iteration 835
+iter 835 | train loss 3.1451 | val loss 3.1633
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 836
+finished iteration 837
+finished iteration 838
+finished iteration 839
+finished iteration 840
+iter 840 | train loss 3.1594 | val loss 3.1507
+New best model saved with val loss 3.1507
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 841
+finished iteration 842
+finished iteration 843
+finished iteration 844
+finished iteration 845
+iter 845 | train loss 3.1174 | val loss 3.1298
+New best model saved with val loss 3.1298
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 846
+finished iteration 847
+finished iteration 848
+finished iteration 849
+finished iteration 850
+iter 850 | train loss 3.1793 | val loss 3.1035
+New best model saved with val loss 3.1035
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 851
+finished iteration 852
+finished iteration 853
+finished iteration 854
+finished iteration 855
+iter 855 | train loss 3.1321 | val loss 3.1972
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 856
+finished iteration 857
+finished iteration 858
+finished iteration 859
+finished iteration 860
+iter 860 | train loss 3.0107 | val loss 3.1003
+New best model saved with val loss 3.1003
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 861
+finished iteration 862
+finished iteration 863
+finished iteration 864
+finished iteration 865
+iter 865 | train loss 3.1018 | val loss 3.1088
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 866
+finished iteration 867
+finished iteration 868
+finished iteration 869
+finished iteration 870
+iter 870 | train loss 3.1938 | val loss 3.1776
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 871
+finished iteration 872
+finished iteration 873
+finished iteration 874
+finished iteration 875
+iter 875 | train loss 3.1070 | val loss 3.1239
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 876
+finished iteration 877
+finished iteration 878
+finished iteration 879
+finished iteration 880
+iter 880 | train loss 3.0718 | val loss 3.1108
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 881
+finished iteration 882
+finished iteration 883
+finished iteration 884
+finished iteration 885
+iter 885 | train loss 3.1320 | val loss 3.1320
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 886
+finished iteration 887
+finished iteration 888
+finished iteration 889
+finished iteration 890
+iter 890 | train loss 3.0543 | val loss 3.1316
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 891
+finished iteration 892
+finished iteration 893
+finished iteration 894
+finished iteration 895
+iter 895 | train loss 3.1465 | val loss 3.0885
+New best model saved with val loss 3.0885
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 896
+finished iteration 897
+finished iteration 898
+finished iteration 899
+finished iteration 900
+iter 900 | train loss 3.0661 | val loss 3.0353
+New best model saved with val loss 3.0353
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 901
+finished iteration 902
+finished iteration 903
+finished iteration 904
+finished iteration 905
+iter 905 | train loss 3.1324 | val loss 3.0753
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 906
+finished iteration 907
+finished iteration 908
+finished iteration 909
+finished iteration 910
+iter 910 | train loss 3.0034 | val loss 3.0871
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 911
+finished iteration 912
+finished iteration 913
+finished iteration 914
+finished iteration 915
+iter 915 | train loss 3.0370 | val loss 3.0661
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 916
+finished iteration 917
+finished iteration 918
+finished iteration 919
+finished iteration 920
+iter 920 | train loss 2.9962 | val loss 3.0283
+New best model saved with val loss 3.0283
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 921
+finished iteration 922
+finished iteration 923
+finished iteration 924
+finished iteration 925
+iter 925 | train loss 2.9638 | val loss 3.0416
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 926
+finished iteration 927
+finished iteration 928
+finished iteration 929
+finished iteration 930
+iter 930 | train loss 3.0676 | val loss 3.0458
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 931
+finished iteration 932
+finished iteration 933
+finished iteration 934
+finished iteration 935
+iter 935 | train loss 2.8532 | val loss 3.0548
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 936
+finished iteration 937
+finished iteration 938
+finished iteration 939
+finished iteration 940
+iter 940 | train loss 2.9436 | val loss 3.0071
+New best model saved with val loss 3.0071
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 941
+finished iteration 942
+finished iteration 943
+finished iteration 944
+finished iteration 945
+iter 945 | train loss 2.9212 | val loss 3.0043
+New best model saved with val loss 3.0043
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 946
+finished iteration 947
+finished iteration 948
+finished iteration 949
+finished iteration 950
+iter 950 | train loss 2.8848 | val loss 3.0233
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 951
+finished iteration 952
+finished iteration 953
+finished iteration 954
+finished iteration 955
+iter 955 | train loss 2.9649 | val loss 3.0218
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 956
+finished iteration 957
+finished iteration 958
+finished iteration 959
+finished iteration 960
+iter 960 | train loss 3.0500 | val loss 3.0148
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 961
+finished iteration 962
+finished iteration 963
+finished iteration 964
+finished iteration 965
+iter 965 | train loss 2.9126 | val loss 2.9853
+New best model saved with val loss 2.9853
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 966
+finished iteration 967
+finished iteration 968
+finished iteration 969
+finished iteration 970
+iter 970 | train loss 2.9377 | val loss 2.9948
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 971
+finished iteration 972
+finished iteration 973
+finished iteration 974
+finished iteration 975
+iter 975 | train loss 3.0377 | val loss 3.0050
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 976
+finished iteration 977
+finished iteration 978
+finished iteration 979
+finished iteration 980
+iter 980 | train loss 2.9846 | val loss 2.9928
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 981
+finished iteration 982
+finished iteration 983
+finished iteration 984
+finished iteration 985
+iter 985 | train loss 2.9929 | val loss 2.9609
+New best model saved with val loss 2.9609
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 986
+finished iteration 987
+finished iteration 988
+finished iteration 989
+finished iteration 990
+iter 990 | train loss 3.1660 | val loss 2.9859
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 991
+finished iteration 992
+finished iteration 993
+finished iteration 994
+finished iteration 995
+iter 995 | train loss 2.9494 | val loss 2.9422
+New best model saved with val loss 2.9422
+saved checkpoint to /Users/tungliew/Downloads/assignment1-basics-main/models/checkpoint_MHA.pt
+finished iteration 996
+finished iteration 997
+finished iteration 998
+finished iteration 999
+
+
+
+
+training runtime: ~ 2h 20min
